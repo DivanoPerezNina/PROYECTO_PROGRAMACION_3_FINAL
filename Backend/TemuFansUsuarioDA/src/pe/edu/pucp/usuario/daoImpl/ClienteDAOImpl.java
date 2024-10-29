@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-import pe.edu.pucp.TemuFans.config.DAOImpl;
+import pe.edu.pucp.dbmanager.config.DAOImpl;
 import pe.edu.pucp.usuario.dao.ClienteDAO;
 import pe.edu.pucp.usuario.model.Cliente;
 
